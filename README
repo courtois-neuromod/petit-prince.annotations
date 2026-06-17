@@ -1,4 +1,5 @@
-# petitprince.annotations
-Set of annotations to characterise the Petit Prince audiobooks (in English and French) heard in the scanner by the CNeuroMod participants.
+<!-- vim: syntax=Markdown -->
+# petit-prince.annotations
+## Set of annotations to characterise the Petit Prince audiobooks (in English and French) heard in the scanner by the CNeuroMod participants.
 
-Stimuli from Jixing Li, John Hale, and Christophe Pallier (2025). Le Petit Prince: A multilingual fMRI corpus using ecological stimuli. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds003643.v2.0.7
+Stimuli from **Jixing Li, John Hale, and Christophe Pallier (2025).** *Le Petit Prince: A multilingual fMRI corpus using ecological stimuli.* OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds003643.v2.0.7
